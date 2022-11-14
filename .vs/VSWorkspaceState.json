@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\etcm",
+    "\\etcm\\src",
+    "\\etcm\\src\\components",
+    "\\etcm\\src\\components\\product_listings",
+    "\\etcm\\src\\contents",
+    "\\etcm\\src\\context",
+    "\\smart_contract",
+    "\\smart_contract\\contracts"
+  ],
+  "SelectedNode": "\\etcm\\package.json",
+  "PreviewInSolutionExplorer": false
+}

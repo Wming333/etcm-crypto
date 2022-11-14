@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "ethers": "^5.7.2",
+    "react-icons-kit": "^2.0.0"
+  }
+}
